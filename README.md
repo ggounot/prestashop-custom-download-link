@@ -1,5 +1,7 @@
 # PrestaShop Custom Download Link
 
+*This module relies heavily on overrides. As such it is made especially for PrestaShop 1.6.*
+
 This is a PrestaShop module allowing to set a custom download link for a virtual product.
 
 The custom download link is to be set on the Virtual Product tab.
